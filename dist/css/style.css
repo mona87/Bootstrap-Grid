@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+  padding: 0; }
+
+.header-txt {
+  background-color: #262626;
+  color: #BFC0BF;
+  padding: 40px; }
+
+.main-txt {
+  background-color: #C1C1C1;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+.btn-holder {
+  padding-top: 50px;
+  padding-bottom: 20px; }
+
+.extra-space {
+  padding-bottom: 20px; }
+
+.spacer {
+  margin-top: 30px; }
+
+.kitten {
+  margin-bottom: 20px; }
+
+.kitten2 {
+  margin-bottom: 20px; }
+
+.footer {
+  background-color: #262626;
+  color: #BFC0BF;
+  padding-top: 20px;
+  padding-bottom: 20px; }
